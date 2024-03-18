@@ -1,0 +1,29 @@
+{
+  "name": "chain-ai-connect",
+  "version": "1.0.0",
+  "description": "Integrasi antara kecerdasan buatan dan teknologi blockchain.",
+  "main": "AIModel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Al-User12",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^1.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Al-User12/chain-ai-connect.git"
+  },
+  "keywords": [
+    "AI",
+    "blockchain",
+    "smart contract"
+  ],
+  "bugs": {
+    "url": "https://github.com/All-User12/chain-ai-connect/issues"
+  }
+}
