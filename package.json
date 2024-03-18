@@ -1,6 +1,9 @@
 {
   "name": "chain-ai-connect",
   "version": "1.0.0",
+  "dependents": {
+    "chain-ai-connect": "^1.0.0"
+  },
   "description": "Integrasi antara kecerdasan buatan dan teknologi blockchain.",
   "main": "AIModel.js",
   "scripts": {
